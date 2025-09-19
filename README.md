@@ -38,7 +38,7 @@
 
 Yo! I'm **th3_0ccupi3r**  I convert assumptions into exploits. The world is brittle; I’m just the inevitable pressure. I break whatever I can touch: web apps, mobile apps, desktop binaries, servers, appliances, hardware. If it talks, I make it confess. If it won’t talk, I make it talk. Chaining low-risk faults into a reliable exploit is my art. I laugh at bad security.
 
-I live for horror movies and heavy riffs (black metal/death metal/extreme metal/metalcore/numetal etc) \m/
+I live for horror movies and heavy riffs (black metal/death metal/extreme metal/metalcore/numetal etc) **\m/**
 
 ### What I do (short & sharp)
 - **Web application pentesting** — full test lifecycle: reconnaissance, auth testing, session logic, business logic abuse, injection analysis, vuln verification (proofs kept minimal in public repos).
