@@ -40,7 +40,7 @@ Yo! I'm **th3_0ccupi3r**  I convert assumptions into exploits. The world is brit
 
 I live for horror movies and heavy riffs (black metal/death metal/extreme metal/metalcore/numetal etc) **\m/**
 
-### What I do (short & sharp)
+### What I do (sharp and to the point... like a Bowie Knife)
 - **Web application pentesting** — full test lifecycle: reconnaissance, auth testing, session logic, business logic abuse, injection analysis, vuln verification (proofs kept minimal in public repos).
 - **Mobile app security** — static/dynamic analysis, reverse engineering APK/IPA artifacts, platform-specific abuse cases.
 - **Source code review** — secure code audits, secret/credential detection, insecure deserialization and misconfigurations.
