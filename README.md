@@ -47,3 +47,5 @@ I live for horror movies and heavy riffs (black metal/death metal/extreme metal/
 - **Fuzzing & automated discovery** — harnesses and fuzz targets for protocol, API and parser fuzzing (targeted instrumentation & crash triage).
 - **Infrastructure & AD** — network attack surface discovery, SMB/LDAP/kerberos reconnaissance, privilege escalation 
 - **Red Team / Adversary Emulation** — end-to-end emulation of TTPs for purple-team exercises and detection validation.
+
+Feel free to take a look around here my repos, just don't expect to find anything private uploaded here ;)
