@@ -41,12 +41,11 @@ Yo! I'm **th3_0ccupi3r** also known as **t0** I convert assumptions into exploit
 I live for horror movies and heavy riffs (black metal/death metal/extreme metal/metalcore/numetal etc) **\m/**
 
 ### What I do (sharp and to the point... like a Bowie Knife)
-- **Web application pentesting**: recon, fuzzing.
-- **Threat Modelling**: 
-- **Mobile app security** — static/dynamic analysis, reverse engineering APK/IPA artifacts, platform-specific abuse cases.
-- **Source code review** — secure code audits, secret/credential detection, insecure deserialization and misconfigurations.
-- **Fuzzing & automated discovery** — harnesses and fuzz targets for protocol, API and parser fuzzing (targeted instrumentation & crash triage).
+- **Web application pentesting**: recon, fuzzing, deep dives in logic and javascripts, I live for server side issues especially RCE =) I'm a fan of looking for open source products in your attack surface and taking them apart ;)
+- **Mobile app security** — static analysis (ghidra/jadgui) and dynamic analysis with Frida. I enjoy reverse engineering APK and IPA files.
+- **Source code review** — sleuthing through the code looking for over looked security bugs and logical issues. 
+- **Fuzzing** with boofuzz, afl++, hongfuzz, radasma etc. 
 - **Infrastructure & AD** — network attack surface discovery, SMB/LDAP/kerberos reconnaissance, privilege escalation 
-- **Red Team / Adversary Emulation** — end-to-end emulation of TTPs for purple-team exercises and detection validation.
+
 
 Feel free to take a look around here my repos, just don't expect to find anything private uploaded here ;)
