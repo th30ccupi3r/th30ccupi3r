@@ -41,16 +41,16 @@ Yo! I'm **th3_0ccupi3r** also known as **t0** I convert assumptions into exploit
 I live for horror movies and heavy riffs (black metal/death metal/extreme metal/metalcore/numetal etc) **\m/**
 
 ### What I do (sharp and to the point... like a Bowie Knife)
-**Web Apps** — Recon, fuzzing, deep dives into logic and JavaScript shenanigans. I live for server-side issues (especially RCEs 😈). I’m also a big fan of finding open-source products lurking in your attack surface and tearing them apart, piece by piece.
+**Web Apps**: Recon, fuzzing, deep dives into logic and JavaScript shenanigans. I live for server-side issues (especially RCEs 😈). I’m also a big fan of finding open-source products lurking in your attack surface and tearing them apart, piece by piece.
 
-**Mobile Apps** — This started when I realised most mobile apps are just fancy wrappers around web apps. Now I’m hooked on static analysis (Ghidra, JADX, JADGUI) and dynamic analysis with Frida — crafting scripts to break things in style. It’s been fun bridging the gap between binary and web 🕹️
+**Mobile Apps**: This started when I realised most mobile apps are just fancy wrappers around web apps. Now I’m hooked on static analysis (Ghidra, JADX, JADGUI) and dynamic analysis with Frida — crafting scripts to break things in style. It’s been fun bridging the gap between binary and web 🕹️
 
-**Binary Exploitation** — Got my start during OSCE prep, and now I’m sharpening my exploit-fu with ROP chains and heap overflows. Painful but oddly satisfying.
+**Binary Exploitation**: Got my start during OSCE prep, and now I’m sharpening my exploit-fu with ROP chains and heap overflows. Painful but oddly satisfying.
 
-**Source Code Review** — There’s something deeply satisfying about sleuthing through code and uncovering sneaky, overlooked bugs. A bit like treasure hunting, but with more if statements.
+**Source Code Review**: There’s something deeply satisfying about sleuthing through code and uncovering sneaky, overlooked bugs. A bit like treasure hunting, but with more if statements.
 
-**Fuzzing** — Making things crash with boofuzz, AFL++, Hongfuzz, and Radamsa — and then manually triaging the chaos (for now 🧪).
+**Fuzzing**: Making things crash with boofuzz, AFL++, Hongfuzz & Radamsa... and then manually triaging the chaos (for now 🧪).
 
-**Infrastructure & AD** — Credential Reuse, Relay Attacks, ADCS misconfigs, Kerberoasting, AS-REP roasting — you name it. Sorry, SOC teams… nothing personal 😅
+**Infrastructure & AD**: Credential Reuse, Relay Attacks, ADCS misconfigs, Kerberoasting, AS-REP roasting — you name it. Sorry, SOC teams… nothing personal 😅
 
 Feel free to take a look around here my repos, just don't expect to find anything private uploaded here ;)
