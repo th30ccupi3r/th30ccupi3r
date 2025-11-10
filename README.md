@@ -16,8 +16,6 @@
 
 <h3>hacker - Binary, Web, Mobile, Infrastructure, Cloud and Active Directory</h3>
 
-<img src="https://img.shields.io/badge/OS-Arch-111?logo=linux"/>
-<img src="https://img.shields.io/badge/Editor-Neovim-111?logo=visualstudiocode"/>
 <img src="https://komarev.com/ghpvc/?username=th30ccupi3r&label=page%20haunts&color=8b0000&style=flat"/>
 
 
