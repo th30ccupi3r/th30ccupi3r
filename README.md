@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/OSCP-green?style=flat&logo=offensive-security&logoColor=white&labelColor=111" alt="OSCP Badge"/>
 <img src="https://img.shields.io/badge/OSCE-green?style=flat&logo=offensive-security&logoColor=white&labelColor=111" alt="OSCE Badge"/>
 <img src="https://img.shields.io/badge/OSWE-green?style=flat&logo=offensive-security&logoColor=white&labelColor=111" alt="OSWE Badge"/>
+<img src="https://img.shields.io/badge/BSCP-green?style=flat&logo=offensive-security&logoColor=white&labelColor=111" alt="BSCP Badge"/>
 <img src="https://img.shields.io/badge/CRTO-maroon?style=flat&logo=offensive-security&logoColor=white&labelColor=111" alt="CRTO Badge"/>
 
 </div>
