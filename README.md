@@ -52,4 +52,4 @@ I live for horror movies and heavy riffs (black metal/death metal/extreme metal/
 
 **Infrastructure & AD**: Credential Reuse, Relay Attacks, ADCS misconfigs, Kerberoasting, AS-REP roasting — you name it. Sorry, SOC teams… nothing personal 😅
 
-Feel free to take a look around here my repos, just don't expect to find anything private uploaded here ;)
+Feel free to take a look around by clicking [here](https://github.com/th30ccupi3r/public), just don't expect to find anything private uploaded here ;)
